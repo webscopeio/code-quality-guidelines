@@ -1,0 +1,16 @@
+site_name: Code Guidelines
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: teal
+  logo: symbol-webscope-white.svg
+
+repo_name: webscopeio/code-quality-guidelines
+repo_url: https://github.com/webscopeio/code-quality-guidelines
+
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: Link

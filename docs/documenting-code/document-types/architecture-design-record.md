@@ -26,3 +26,4 @@ https://github.com/joelparkerhenderson/architecture_decision_record
   
   The best practise is to create a `docs/` folder in your project 
 </details>
+
